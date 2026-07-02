@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center"><a href="https://kontor.studio"><img src="./butterfly-sm.gif" width="120" /></a></div>
 
-<!--
-**k6-bleedin6ed6e-k6/k6-bleedin6ed6e-k6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# kwasi m. kontor
 
-Here are some ideas to get you started:
+```
+BSc Cybersecurity (in progress · 2028)  ·  USN 2017–2022
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+contingency instance · primary → [kwasikontor45](https://github.com/kwasikontor45)
+
+---
+
+### links
+
+[blue-team.kontor.studio](https://blue-team.kontor.studio) &nbsp;·&nbsp;
+[kontor.studio](https://kontor.studio) &nbsp;·&nbsp;
+[kwasikontor.dev](https://kwasikontor.dev)
+
+---
+
+<sub>active build &nbsp;·&nbsp; continuous iteration</sub>
